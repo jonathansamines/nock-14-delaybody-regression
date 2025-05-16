@@ -1,0 +1,19 @@
+{
+  "name": "nock-14-delaybody-regression",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/wreck": "^18.1.0",
+    "nock": "^14.0.4"
+  },
+  "volta": {
+    "node": "20.19.2"
+  }
+}
